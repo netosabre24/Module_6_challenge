@@ -8,11 +8,11 @@ The Weather API keys were used to request data from OpenWeatherMap and Google Ma
 * Retrieved the nearest city name
 
 ## Customer Travel Destinations Map
-* Used input statements to retrieve customer weather preferences
-* Used the preferences to filter and identify potential travel locations nd nearby hotels
+* Input statements to retrieve customer weather preferences
+* preferences to filter and identify potential travel locations nd nearby hotels
 * Displayed destinations on a marker layer map with pop-up markers
 
 ## Travel Itinerary Map
-* Used Google Directions API to create a travel itinerary
+* Google Directions API to create a travel itinerary
 * Displayed the route between cities
 * Created a marker layer map with pop-up marker for each city on the itinerary
